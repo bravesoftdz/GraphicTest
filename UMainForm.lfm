@@ -479,9 +479,7 @@ object MainForm: TMainForm
             ShortCut = 57379
           end>
         MouseActions = <>
-        MouseTextActions = <>
         MouseSelActions = <>
-        VisibleSpecialChars = [vscSpace, vscTabAtLast]
         SelectedColor.BackPriority = 50
         SelectedColor.ForePriority = 50
         SelectedColor.FramePriority = 50
